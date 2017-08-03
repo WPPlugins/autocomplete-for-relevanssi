@@ -1,0 +1,113 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Autocomplete for Relevanssi\n"
+"POT-Creation-Date: 2016-10-16 22:47+0100\n"
+"PO-Revision-Date: 2016-10-16 22:48+0100\n"
+"Last-Translator: \n"
+"Language-Team: jojaba <jojaba@gmail.com>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../afr-options.php:13 ../afr-options.php:34
+msgid "Autocomplete for Relevanssi options"
+msgstr "Options de « Autocomplete for Relevanssi »"
+
+#: ../afr-options.php:14
+msgid "Autocomplete for Relevanssi"
+msgstr "Autocomplete for Relevanssi"
+
+#: ../afr-options.php:58
+msgid " terms have been found in the Relevanssi index."
+msgstr "termes ont été trouvés dans l'index Relevanssi."
+
+#: ../afr-options.php:63
+msgid "Save Changes"
+msgstr "Enregistrer les modifications"
+
+#: ../afr-options.php:67
+msgid ""
+"Sorry, the Relevanssi Database index table hasn't been found or no word is "
+"indexed. Did you install Relevanssi? Did you build the index?"
+msgstr ""
+"Désolé, la table de base de données relevanssi est introuvable ou aucun "
+"terme n'est indexé. Avez-vous installé Relevanssi ? Avez-vous généré "
+"l'index ?"
+
+#: ../afr-options.php:103
+msgid "Autocomplete box style"
+msgstr "Style de la boîte d'autocomplétion"
+
+#: ../afr-options.php:111
+msgid "Minimum chars"
+msgstr "Caractères minimum"
+
+#: ../afr-options.php:119
+msgid "Max suggestions"
+msgstr "Suggestions maximales"
+
+#: ../afr-options.php:134
+msgid ""
+"Here you can define some settings to adapt this plugin to your "
+"flavors&hellip;"
+msgstr ""
+"Ici vous pouvez adapter quelques réglages pour adapter le plugin à votre "
+"convenance&hellip;"
+
+#: ../afr-options.php:149
+msgid "Default style"
+msgstr "Style par défaut"
+
+#: ../afr-options.php:153
+msgid "The default afr style. Simple and lightweight."
+msgstr "Le style afr par défaut. Simple et léger."
+
+#: ../afr-options.php:159
+msgid "Awesomplete default style"
+msgstr "Style Awesomplete par défaut"
+
+#: ../afr-options.php:163
+msgid "The default Awesomeplete style."
+msgstr "Le style Awesomeplete par défaut."
+
+#: ../afr-options.php:169
+msgid "No style"
+msgstr "Aucun style"
+
+#: ../afr-options.php:173
+msgid ""
+"No style applied. This means no additionnal <code>.css</code> file will be "
+"loaded. You can style the box in your theme stylesheet by using the class "
+"you can look over in the following HTML format example. This is the format "
+"Awesomplete creates for the autocompletion feature (without the <code>aria-</"
+"code> attributes)."
+msgstr ""
+"Aucun style n'est appliqué. Cela signifie qu'aucun fichier <code>.css</code> "
+"supplémentaire ne sera chargé. Vous pouvez modifier le style de la boîte "
+"dans la feuille de style de votre thème en utilisant les class que vous "
+"découvrez dans l'exemple de formatage HTML suivant. Ceci est le format créé "
+"par Awesomplete afin de mettre en place la fonctionnalité d'autocomplétion "
+"(sans les attributs <code>aria-</code>)."
+
+#: ../afr-options.php:203
+msgid ""
+"Set the minimum chars the user type in to reveal the autocompletion box."
+msgstr ""
+"Définissez ici à partir de combien de caractères saisis par l'utilisateur la "
+"boîte d'autocomplétion s'affiche."
+
+#: ../afr-options.php:220
+msgid "Set the maximum suggestions displayed in autocomplete box."
+msgstr ""
+"Définissez le nombre de suggestions maximum affichées par la boîte "
+"d'autocomplétion."
+
+#~ msgid "default"
+#~ msgstr "default"
